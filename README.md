@@ -2,7 +2,7 @@
   <img src="banner.png" alt ="Welcome" width="100%"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/poppasilky/poppasilky/blob/main/thoughtbubble0376dn.gif">
+<img align="center" alt="Coding" width="400" src="https://github.com/poppasilky/poppasilky/blob/main/thoughtbubble0376dn.gif">
 
 <!--
 **poppasilky/poppasilky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

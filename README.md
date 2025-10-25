@@ -1,8 +1,7 @@
-## [![Greetings](Header.png)](https://github.com/poppasilky)
-
-<p align="center">
-  <img src="Githubbanner.png" alt ="Delusion = Reality" width="100%"/>
+## <p align="center">
+  <img src="banner.png" alt ="Welcome" width="100%"/>
 </p>
+
 
 <!--
 **poppasilky/poppasilky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
